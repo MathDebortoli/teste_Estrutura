@@ -6,6 +6,6 @@ public class BuscaPatenteController {
     }
 
     public void buscarPatenteAvancado(){
-        System.out.println("Buscando Patente Avancado!");
+        System.out.println("Buscando Patente Avsadancado!");
     }
 }
